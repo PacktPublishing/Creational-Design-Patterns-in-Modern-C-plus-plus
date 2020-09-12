@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbstractProductA" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractProductA.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractProductB" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>AbstractProductB.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductA1" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Set1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductB1" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Set1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductA2" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Set2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductB2" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Set2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractFactory" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>AbstractFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteFactory1" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ConcreteFactory1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteFactory2" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ConcreteFactory2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

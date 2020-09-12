@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Product" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteProduct" Collapsed="true">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ConcreteProduct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creator">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteProduct2" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>ConcreteProduct2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteCreator" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCreator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteCreator2" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCreator2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Command" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAIAAAAAAAAAAAAAAEQAAAAYAAAAAAABABAIAAA=</HashCode>
+      <FileName>Command.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Connection" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAKAAAAgAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Connection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySqlCommand" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MySqlCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySqlConnection" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MySqlConnection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlCommand" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SqlCommand.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlConnection" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SqlConnection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbFactory">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DbFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

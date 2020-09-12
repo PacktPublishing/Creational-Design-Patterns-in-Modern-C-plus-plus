@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ObjectPool">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAACAAAAQAAABAAAAAAAA=</HashCode>
+      <FileName>ObjectPool.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_PooledObjects" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Alloc&gt;" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AWAEk4EqCrBsCEBAAOMIIAAyAAUEQBIghQkwgkAFUko=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SharedObject" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAABAAAAAAgAAAAAAAAAAAAADAAAAAEAAA=</HashCode>
+      <FileName>SharedObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
